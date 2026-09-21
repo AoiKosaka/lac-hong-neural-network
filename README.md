@@ -16,6 +16,10 @@ Notebook thực hành hiện tại:
 - [Bài tập Buổi 4: một node → ba đầu ra](notebooks/04_bai_tap_perceptron_cit.ipynb)
 - [Bài tập ứng dụng Buổi 4: phân loại phân khúc nhà](notebooks/04_bai_tap_perceptron_phan_khuc_nha.ipynb)
 - [Ngân hàng tình huống mở Buổi 4](notebooks/04_ngan_hang_tinh_huong_perceptron.ipynb)
+- [Buổi 5: Adaline & Widrow–Hoff trên C/I/T](notebooks/05_adaline_cit.ipynb)
+- [Bài tập Buổi 5](notebooks/05_bai_tap.ipynb)
+- [Buổi 5 (mở rộng): Từ Adaline/Widrow–Hoff đến MLP](notebooks/05_adaline_mlp_hoan_chinh.ipynb)
+- [Ngân hàng tình huống Adaline Buổi 5](notebooks/tinh-huong/README.md)
 
 Starter Python:
 
@@ -23,6 +27,7 @@ Starter Python:
 - [Buổi 4 mở rộng: ba Perceptron song song](bai-tap/buoi4_perceptron_cit_nhieu_dau_ra.py)
 - [Buổi 4 ứng dụng: Perceptron phân loại phân khúc nhà](bai-tap/buoi4_perceptron_phan_khuc_nha.py)
 - [Buổi 4: mười đề mở chỉ có comment](bai-tap/buoi4-tinh-huong/README.md)
+- [Buổi 5: hoàn thiện quy tắc học Adaline (Widrow–Hoff)](bai-tap/buoi5_adaline_cit.py)
 
 ## Luồng bài tập Buổi 4
 
